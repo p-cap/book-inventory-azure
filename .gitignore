@@ -44,3 +44,4 @@ publish/
 *.log
 logs/
 **/logs/
+deployment_issues.md
