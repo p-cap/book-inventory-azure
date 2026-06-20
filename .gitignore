@@ -1,0 +1,46 @@
+# OS and IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sw?
+
+# Node / Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+dist-ssr/
+**/dist-ssr/
+*.local
+.env
+.env.*
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# .NET / Backend
+bin/
+**/bin/
+obj/
+**/obj/
+appsettings.local.json
+
+# Publish outputs
+publish/
+**/publish/
+
+# Log files
+*.log
+logs/
+**/logs/
