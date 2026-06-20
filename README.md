@@ -52,3 +52,9 @@ To prevent automated deployment engines from getting stuck, use a completely non
 ---
 
 For an exhaustive, walk-through guide on managing routes and structuring this layer, you can watch this helpful [Building REST APIs with .NET Minimal API Tutorial](https://www.youtube.com/watch?v=dgd4GmvI3TA). This specific video breaks down how to decouple routes, plug in database contexts via Entity Framework Core, and implement clean status code practices that perfectly match your LuminaBooks requirements.
+
+___
+Enjoy Watching
+
+https://github.com/user-attachments/assets/77b1b5c5-b151-427a-abf4-22c4a91ec40a
+
